@@ -1,0 +1,29 @@
+{
+  "name": "software-engineering-practice",
+  "version": "1.0.0",
+  "description": "Practice for the software engineering course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node build/main.js",
+    "compile": "tsc",
+    "watch": "tsc -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Steven24K/Software-Engineering-practice.git"
+  },
+  "keywords": [
+    "software",
+    "Engineering"
+  ],
+  "author": "Steven K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Steven24K/Software-Engineering-practice/issues"
+  },
+  "homepage": "https://github.com/Steven24K/Software-Engineering-practice#readme",
+  "dependencies": {
+    "typescript": "^3.4.1"
+  }
+}
